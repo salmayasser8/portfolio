@@ -1,0 +1,18 @@
+ .home-page{
+    display: flex;
+    flex-direction: column;
+    height:1000px;
+ }
+.home-page .container h1{
+    color: green;
+    text-align: center;
+}
+.home-page .container header nav ul{
+    display:flex;
+}
+.home-page footer {
+    margin-top: auto;
+}
+footer p{
+    text-align: center;
+}
